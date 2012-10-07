@@ -1,5 +1,7 @@
 /**
- * Simple XSLT processor.
+ * Simple Objective-C wrapper for using the lovely libxml2 and libxslt libraries.
+ *
+ * Author: Matt West. matt@westbright.co.uk
  */
 @interface WBXSLTProcessor : NSObject
 
